@@ -29,4 +29,9 @@
 
 - copy remote origin from the github directory, then push it to the origin master:
 - git push origin master
+- git diff --staged
 
+
+# Copy/Clone github repo to local file:
+
+- git clone "url_from_repo"
